@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Yusuf A Dalal;;;
+FN:Yusuf A Dalal
+ORG:AL SUFFAH;
+TEL;type=CELL;type=VOICE;waid=971544436445:+971 54 443 6445
+EMAIL;type=INTERNET;type=HOME:alsuffahtrading@gmail.com
+item1.URL:www.alsuffah.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
